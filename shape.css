@@ -1,0 +1,21 @@
+body{
+  background-color: #000000e3;
+  color: white;
+}
+.shape{
+  /*background-color: white;*/
+  background-color: #000000e3;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  border: 1px solid white;
+  position: absolute;
+  /*z-index: -1;*/
+}
+/*canvas{
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  z-index: auto;
+}*/
